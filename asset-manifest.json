@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.575cbbd0.css",
+    "main.js": "/static/js/main.e6b49342.js",
+    "static/js/592.bc008932.chunk.js": "/static/js/592.bc008932.chunk.js",
+    "static/media/laptops-image.webp": "/static/media/laptops-image.ad468cc2d2fb15844bf2.webp",
+    "static/media/laptop-4.jpeg": "/static/media/laptop-4.adf0d173aa3d1136c41d.jpeg",
+    "static/media/laptops-image-2.webp": "/static/media/laptops-image-2.985547d7e2e5b0b5d7f2.webp",
+    "static/media/laptop-6.jpeg": "/static/media/laptop-6.323cb7aa7fa89a84a273.jpeg",
+    "static/media/laptop-2.jpeg": "/static/media/laptop-2.3dbf60bdd56bcb0d5ff6.jpeg",
+    "static/media/laptop-1.jpeg": "/static/media/laptop-1.d6e4cf680e653996d8d7.jpeg",
+    "static/media/laptop-5.jpeg": "/static/media/laptop-5.d660b625a934ef19d9c7.jpeg",
+    "static/media/laptop-3.jpeg": "/static/media/laptop-3.a434559cd12ec6bcb9d0.jpeg",
+    "static/media/main-part-photo.jpg": "/static/media/main-part-photo.97548fedc194bf8de2a7.jpg",
+    "static/media/blog-1.jpeg": "/static/media/blog-1.0414871a7b34be4d35da.jpeg",
+    "static/media/blog-3.jpeg": "/static/media/blog-3.4e17b266fa6c4c3fa4e7.jpeg",
+    "static/media/blog-2.jpeg": "/static/media/blog-2.0836699d8b7fa77d1f1c.jpeg",
+    "index.html": "/index.html",
+    "main.575cbbd0.css.map": "/static/css/main.575cbbd0.css.map",
+    "main.e6b49342.js.map": "/static/js/main.e6b49342.js.map",
+    "592.bc008932.chunk.js.map": "/static/js/592.bc008932.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.575cbbd0.css",
+    "static/js/main.e6b49342.js"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/laptop-zone/static/css/main.eb6e254d.css",
-    "main.js": "/laptop-zone/static/js/main.346d7061.js",
+    "main.css": "/laptop-zone/static/css/main.2ab6f49f.css",
+    "main.js": "/laptop-zone/static/js/main.96254b2c.js",
     "static/js/592.4b363e2b.chunk.js": "/laptop-zone/static/js/592.4b363e2b.chunk.js",
     "static/media/laptops-image.webp": "/laptop-zone/static/media/laptops-image.ad468cc2d2fb15844bf2.webp",
     "static/media/laptop-4.jpeg": "/laptop-zone/static/media/laptop-4.adf0d173aa3d1136c41d.jpeg",
@@ -16,12 +16,12 @@
     "static/media/blog-3.jpeg": "/laptop-zone/static/media/blog-3.4e17b266fa6c4c3fa4e7.jpeg",
     "static/media/blog-2.jpeg": "/laptop-zone/static/media/blog-2.0836699d8b7fa77d1f1c.jpeg",
     "index.html": "/laptop-zone/index.html",
-    "main.eb6e254d.css.map": "/laptop-zone/static/css/main.eb6e254d.css.map",
-    "main.346d7061.js.map": "/laptop-zone/static/js/main.346d7061.js.map",
+    "main.2ab6f49f.css.map": "/laptop-zone/static/css/main.2ab6f49f.css.map",
+    "main.96254b2c.js.map": "/laptop-zone/static/js/main.96254b2c.js.map",
     "592.4b363e2b.chunk.js.map": "/laptop-zone/static/js/592.4b363e2b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb6e254d.css",
-    "static/js/main.346d7061.js"
+    "static/css/main.2ab6f49f.css",
+    "static/js/main.96254b2c.js"
   ]
 }
